@@ -1,0 +1,36 @@
+Doy respuesta a la pregunta en el ejercicio #2 con los siguientes ejemplos:
+
+
+Si seria posible con una sobrecarga de metodos.
+
+
+public class VariosMain{
+ 
+  public static void main(String[] arg){
+      main(1);
+      main('x');
+  }
+ 
+  public static void main(int i){
+     
+  }
+ 
+  public static void main(chat i){
+    
+  }
+ 
+}
+
+
+No seria posible si se realiza de la siguiente forma:
+
+public static void main(String[] args) 
+{
+   // punto de entrada del programa
+}
+ 
+public static void main(String[] args) 
+{
+   // punto de entrada del programa
+}
+ 

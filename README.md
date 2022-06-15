@@ -1,4 +1,4 @@
-NOTA: Dentro de este repositorio se encuentra realizado el ejecrcicio numero 1 y  5 archivos mas con los enlaces que llevan a cada ejercicio pertenciecientes de este taller.
+NOTA: Dentro de este repositorio se encuentra realizado el ejecrcicio numero 1 y  5 archivos mas con los enlaces que llevan a cada ejercicio pertenciecientes a este taller.
 
 
 # ModObjetos-1 de 6
